@@ -37,7 +37,7 @@
             bindings = <
 &kp TAB       &kp N1    &kp UP    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp N0  &kp HOME  &kp BSPC
 &kp LEFT_ALT  &kp LEFT  &kp DOWN  &kp RIGHT     &kp NUMBER_4  &kp N5          &kp NUMBER_4  &kp N5        &kp NUMBER_6  &trans  &trans    &kp F10
-&kp LSHFT     &trans    &trans    &trans        &trans        &trans          &kp N7        &kp N8        &kp N9        &trans  &trans    &trans
+&kp LSHFT     &trans    &trans    &trans        &kp MINUS     &kp PLUS        &kp N7        &kp N8        &kp N9        &trans  &trans    &trans
                                   &kp LGUI      &trans        &kp SPACE       &kp RET       &trans        &kp RALT
             >;
         };
