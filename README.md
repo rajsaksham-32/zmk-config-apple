@@ -57,12 +57,12 @@ boards/shields/      -> Custom keyboard shield definitions
 build.yaml           -> Build instructions for automated builds  
 ```
 ---
-## Credits
+## Credits  
 
-Huge thanks to the ZMK community for providing such an amazing open-source firmware platform.
+Huge thanks to the ZMK community for providing such an amazing open-source firmware platform.  
 ZMK Firmware: https://zmk.dev/
 ---
 # Author
 
-Made by Saksham Raj
+Made by Saksham Raj  
 If you find this project interesting, feel free to star the repository ⭐
